@@ -68,6 +68,3 @@ The workflow includes:
 - Implement cosine similarity for recommendations
 - Build a user interface for interaction
 - Deploy as a web application
-
-
-## Project Structure
